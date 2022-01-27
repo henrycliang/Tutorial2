@@ -1,4 +1,4 @@
-clear;clc;
+clear all;clc;
 
 %%%%% Declare variables %%%%%%%%%%%%%%%%%%%%%%%%%%
 m=16;

@@ -1,6 +1,6 @@
 %%% An example from Homework1 %%%%
 %%% Distributed Power Control %%%%
-clear; clc; % clear the working space and command window
+clear all; clc; % clear the working space and command window
 
 %%% Declare the variables %%%
 G=[ 1.0, 0.2, 0.4;

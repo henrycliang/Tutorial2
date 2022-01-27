@@ -1,4 +1,4 @@
-clear;clc;
+clear all;clc;
 
 % An example given by CVX website
 %%%%%%%% declare the variables %%%%%%%%%%%%%%%%%%%%%%

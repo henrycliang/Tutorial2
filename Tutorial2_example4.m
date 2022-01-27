@@ -1,5 +1,5 @@
 close all;
-clear;
+clear all;
 clc;
 
 
@@ -33,7 +33,7 @@ title('Transmit Power');
 grid on;
 ylim([0 1.2]);
 plot(0:1:T,p);
-legend({'receiver 1','receiver 2','receiver 3'});
+legend({'transmitter 1','transmitter 2','transmitter 3'});
 
 
 figure(2);hold on;
